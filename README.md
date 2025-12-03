@@ -77,6 +77,7 @@
 
 ### [**Japanese Dictionary**](https://github.com/JapaneseDatabase)
 **Github group dedicated to generation a python package for Japanese studying.**
+
 Key elements:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
@@ -84,6 +85,7 @@ Key elements:
 
 ### [**Discord ChatBot**](https://github.com/34-Matt/DiscordChatBot)
 **Tool for implementing LLMs as a Discord bot. Supports OpenAI and Llama hosted models**  
+
 Key elements:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_ChatGPT-0081A5?logo=openai&logoColor=white)
@@ -92,6 +94,7 @@ Key elements:
 
 ### [**Turtlebot SLAM**](https://github.com/34-Matt/CSCI573-SLAMing)
 **Implementation of the SLAM algorithm on a Turtlebot.**  
+
 Key elements:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
