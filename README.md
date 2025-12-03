@@ -2,7 +2,7 @@
 <h3 align="center">PhD Candidate • Robotics & Machine Learning • Human–Robot Interaction</h3>
 
 <p align="center">
-  <a href="mailto:mmdstanley@gmail.com">
+  <a href="mailto:mdstanleyphd@gmail.com">
     <img src="https://img.shields.io/badge/Email-mmdstanley%40gmail.com-EA4335?style=flat-square&logo=Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/matthew-stanley-engineer">
